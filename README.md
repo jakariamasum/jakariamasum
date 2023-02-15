@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakariamasum&label=Profile%20views&color=0e75b6&style=flat" alt="jakariamasum" /> </p>
 
-- 🌱 I’m currently learning **JS,REACT,PYTHON**
+- 🌱 I’m currently learning **JS, REACT, PYTHON**
 
-- 💬 Ask me about **CPP,C,PHYTHON,JS,CSS3,HTML**
+- 💬 Ask me about **CPP, C, PHYTHON, JS, CSS3, HTML**
 
 - 📫 How to reach me **jmphy698@gmail.com**
 
