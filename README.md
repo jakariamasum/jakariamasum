@@ -15,8 +15,8 @@ Skills: NEXT JS / REACT / JS / HTML / CSS / C++ / C
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/jakariamasum)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jakaria-masum-589494278//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/md.jakaria.masum.31/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://jakaria-masum.netlify.app/)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/jakariamasum&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jakariamasum&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/jakariamasum)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jakariamasum)  
 
 ![Profile views](https://gpvc.arturio.dev/https://github.com/jakariamasum)  
