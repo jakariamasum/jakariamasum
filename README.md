@@ -19,4 +19,4 @@ Skills: NEXT JS / REACT / JS / HTML / CSS / C++ / C
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jakariamasum)  
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/jakariamasum)  
+![Profile views](https://gpvc.arturio.dev/jakariamasum)  
