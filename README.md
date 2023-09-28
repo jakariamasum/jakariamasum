@@ -1,6 +1,7 @@
+![Programmer and Developer](https://media.licdn.com/dms/image/D4E16AQFQNx-Qo34DjQ/profile-displaybackgroundimage-shrink_350_1400/0/1686206436069?e=1701302400&v=beta&t=dz7-MsHCizDgYoKVQB5ePeGZIzSGLN13cXUO5ioQA_c)
+
 ### Hi there 👋, my name is Jakaria Masum
 #### Programmer and Developer
-![Programmer and Developer](https://media.licdn.com/dms/image/D4E16AQFQNx-Qo34DjQ/profile-displaybackgroundimage-shrink_350_1400/0/1686206436069?e=1701302400&v=beta&t=dz7-MsHCizDgYoKVQB5ePeGZIzSGLN13cXUO5ioQA_c)
 
 I'm Jakaria from Bangladesh. I really enjoy learning languages and frameworks like React and NextJs. I also enjoy wireframing, ui, ux, and design in general.
 
