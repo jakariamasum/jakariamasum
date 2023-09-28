@@ -1,5 +1,5 @@
 ![Programmer and Developer](https://media.licdn.com/dms/image/D4E16AQFQNx-Qo34DjQ/profile-displaybackgroundimage-shrink_350_1400/0/1686206436069?e=1701302400&v=beta&t=dz7-MsHCizDgYoKVQB5ePeGZIzSGLN13cXUO5ioQA_c)
-
+![Profile views](https://komarev.com/ghpvc/?username=your-github-jakariamasum&color=blueviolet)
 ### Hi there 👋, my name is Jakaria Masum
 #### Programmer and Developer
 
@@ -17,6 +17,4 @@ Skills: NEXT JS / REACT / JS / HTML / CSS / C++ / C
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jakariamasum&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jakariamasum)  
-
-![Profile views](https://gpvc.arturio.dev/jakariamasum)  
+[![Jakaria's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jakariamasum&theme=react-dark)](https://github.com/jakariamasum/github-readme-activity-graph)
