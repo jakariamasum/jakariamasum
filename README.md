@@ -16,7 +16,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jakariamasum&icon=0&color=8)](https://visitcount.itsvg.in) 
+![Profile views](https://komarev.com/ghpvc/?username=your-github-jakariamasum&color=blueviolet)
+
 [![Jakaria's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jakariamasum&theme=react-dark)](https://github.com/jakariamasum/github-readme-activity-graph)
 
 
