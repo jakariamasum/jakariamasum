@@ -1,15 +1,15 @@
 # 💫 About Me:
 👋 Hey there! I'm Jakaria Masum, an aspiring web developer with a passion for crafting seamless digital experiences.
 
-💼 Recently, I completed an enriching internship at Business Automation Ltd, where I delved into various web technologies and gained hands-on experience in building scalable solutions.
+💼 Currently, I am working as a Full Stack Developer Intern at ZiNi Pay, where I am honing my skills in building scalable web applications and exploring the latest technologies in the field.
 
 🌟 My journey in web development is fueled by a desire to create beautiful, functional, and user-friendly interfaces that leave a lasting impression. From crafting pixel-perfect designs to implementing robust back-end systems, I thrive on the creative and technical challenges of the field.
 
-🚀 Currently, I'm sharpening my skills in HTML, CSS, and JavaScript, while also exploring the exciting world of frameworks like React.js for building dynamic web applications. Additionally, my passion for problem-solving extends to competitive programming, where I enjoy tackling algorithmic challenges and refining my coding prowess.
+🚀 I'm sharpening my skills in HTML, CSS, and JavaScript, while also exploring the exciting world of frameworks like React.js for building dynamic web applications. Additionally, my passion for problem-solving extends to competitive programming, where I enjoy tackling algorithmic challenges and refining my coding prowess.
 
 🌱 I'm committed to continuous learning and growth in this ever-evolving landscape. Whether it's mastering new technologies, collaborating on innovative projects, or sharing insights with fellow enthusiasts, I'm always eager to expand my horizons.
 
-🤝 Let's connect and collaborate! Whether you're a fellow developer, a potential collaborator, or simply someone who shares a love for technology, I'd love to hear from you. Feel free to reach out via jakariamasum21@gmail.com
+🤝 Let's connect and collaborate! Whether you're a fellow developer, a potential collaborator, or simply someone who shares a love for technology, I'd love to hear from you. Feel free to reach out via jakariamasum21@gmail.com.
 
 Keep coding, stay inspired, and embrace the journey of discovery! 😊💻✨
 
